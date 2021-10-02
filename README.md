@@ -6,4 +6,4 @@
 - [Prerequisites](#Prerequisites)
 
 ## What will you learn
-- How to split an application into MVC DAO layers      
+- How to split an application into MVC DAO layers       
